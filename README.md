@@ -1,3 +1,3 @@
 # CS 245 (Fall 2018) Practice Assignment 09
 
-See assignment details on Canvas.
+NOTE: Assignment occasionally fails timing test, but most of the time completes with a 100%
